@@ -7,7 +7,6 @@ flutter ile yazdımığım yaşam süresi hesaplama uygulaması boy , kilo , haf
 *Sayfalar arası veri gönderimi
 
 <img src="https://github.com/alierdem06/beklenenYasamSuresiHesaplama/blob/main/20221106_010256.jpg" width="auto">
-
 <img src=" https://github.com/alierdem06/beklenenYasamSuresiHesaplama/blob/main/20221106_010300.jpg" width="auto">  
   
  
